@@ -6,7 +6,7 @@ int main() {
    cin>>n;
    if (n>=2){
    for(int i=1; i<=n; i++) {
-       cout << n_2;
+       cout << n_2<<" ";
        prox = n_1 + n_2;
        n_2 = n_1;
        n_1 = prox;
